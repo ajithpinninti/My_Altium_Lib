@@ -1,0 +1,8 @@
+Aj_PCB_Lib filter=lfs diff=lfs merge=lfs -text
+Aj_PCB_Lib/* filter=lfs diff=lfs merge=lfs -text
+Aj_PCB_Lib/Aj_PCB_Lib.IntLib filter=lfs diff=lfs merge=lfs -text
+Aj_PCB_Lib/ESTEEMPCBLIB.PCBLIB filter=lfs diff=lfs merge=lfs -text
+Aj_PCB_Lib/ESTEEMPCBLIB.PCBLIB filter=lfs diff=lfs merge=lfs -text
+*.PCBLIB filter=lfs diff=lfs merge=lfs -text
+*.Schlib filter=lfs diff=lfd merge=lfs -text
+Aj_PCB_Lib.IntLib filter=lfs diff=lfs merge=lfs -text
